@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/paragbadgujar1205.github.io/todoapp.git/static/css/main.5cee2368.css",
-    "main.js": "/paragbadgujar1205.github.io/todoapp.git/static/js/main.e504490d.js",
-    "index.html": "/paragbadgujar1205.github.io/todoapp.git/index.html",
-    "main.5cee2368.css.map": "/paragbadgujar1205.github.io/todoapp.git/static/css/main.5cee2368.css.map",
-    "main.e504490d.js.map": "/paragbadgujar1205.github.io/todoapp.git/static/js/main.e504490d.js.map"
+    "main.css": "/todoapp/static/css/main.5cee2368.css",
+    "main.js": "/todoapp/static/js/main.e504490d.js",
+    "index.html": "/todoapp/index.html",
+    "main.5cee2368.css.map": "/todoapp/static/css/main.5cee2368.css.map",
+    "main.e504490d.js.map": "/todoapp/static/js/main.e504490d.js.map"
   },
   "entrypoints": [
     "static/css/main.5cee2368.css",
