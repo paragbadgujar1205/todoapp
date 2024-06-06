@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+*{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    box-sizing: border-box;
+}
+body{
+    background-color: #17192F;
+}
+.completed {
+    background-color: #d3d3d3;
+}
+.editIcon{
+    cursor: pointer;
+}
+.deleteIcon{
+    color: rgb(221, 57, 57);
+    cursor: pointer;
+}
+span{
+    color: white;
+}
+.list-item{
+    border-radius: 10px;
+    background-color: rgba(245, 222, 179, 0.199);
+    color: #d3d3d3;
+}
+.header{
+    color: white;
+}
+.list-text{
+    min-width: 200px;
+    overflow-wrap: break-word;
+}
