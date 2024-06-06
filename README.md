@@ -2,25 +2,6 @@
 
 This is a basic To-Do application built using ReactJS. It allows users to add, view, edit, and delete tasks. The application showcases the use of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
 
-## Project Structure
-
-todoapp/
-├── public/
-│   ├── index.html
-├── src/
-│   ├── Components/
-│   │   ├── TaskInput.js
-│   │   ├── TaskList.js
-│   ├── Redux/
-│   │   ├── Action.js
-│   │   ├── Reducer.js
-│   │   ├── Store.js
-    ├── App.css
-│   ├── App.js
-│   ├── index.js
-├── README.md
-├── package.json
-
 ## Features
 
 - Add tasks: Users can input a task into a text field and add it to the list.
